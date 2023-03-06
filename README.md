@@ -4,7 +4,7 @@
 [IN-PROGRESS]
 [Site Previev](#)
 
-### DESCRPTION
+### DESCRIPTION
 This my first larger project in object oriented programing. At the moment there is a LOT to do 😂
 
 **technology used in the project actually includes:**
