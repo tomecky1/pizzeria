@@ -2,7 +2,7 @@
 
 ## DEMO
 [IN-PROGRESS]
-[Site Preview](https://tomecky1.github.io/pizzeria/)
+[Site Preview](https://tomecky1.github.io/pizzeria/src/index.html)
 
 ### DESCRIPTION
 This my first larger project in object oriented programing. At the moment there is a LOT things to do 😂
